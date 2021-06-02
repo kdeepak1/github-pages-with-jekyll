@@ -2,11 +2,18 @@ title: Kashi's Website
 author: Kashi Deepak
 email: kdeepak@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is my website I made for AP Comp Sci A
+  This is my website I made for AP Comp Sci A.
+  Name: Kashi Deepak
+  Picture:
+  Social Media:
+  Brag Sheet: 
+  1. Play Valorant mobile offensive 
+  2. Run track and field
+  3. Like to bike around my neighborhood
 
 # social links
 github_username:  kdeepak1 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: bulma-clean-theme
+remote_theme: THEME-NAME
