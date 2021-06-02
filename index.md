@@ -1,3 +1,3 @@
 ---
-title: "This is my Ap Comp Sci Website by Kashi Deepak"
+title: "This is my AP CompSci Website by Kashi Deepak"
 ---
