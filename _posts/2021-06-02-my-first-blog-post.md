@@ -1,3 +1,5 @@
-2. Run track and field
-1. Play Valorant mobile offensive
-3. Like to bike around my neighborhoo
+Brag Sheet:
+
+1. Run track and field
+2. Play Valorant mobile offensive
+3. Like to bike around my neighborhood
