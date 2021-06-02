@@ -2,7 +2,6 @@
 title: "Kashi Ap Project"
 date: 2021-06-01
  Name: Kashi Deepak
- 
  Picture:
  
  Social Media:
