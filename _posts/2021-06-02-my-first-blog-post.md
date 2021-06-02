@@ -1,4 +1,10 @@
+Name: Kashi Deepak
+
 Picture: ![image](https://github.com/kdeepak1/github-pages-with-jekyll/blob/main/kashi%20picture.jpg?raw=true)
+
+Social Media:
+
+twitter - https://twitter.com/Kashi73765338
 
 Brag Sheet:
 
